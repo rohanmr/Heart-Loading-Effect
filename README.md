@@ -1,6 +1,8 @@
 # Heart-Loading-Effect
 
-Download Code and Run on Live-Server
+Download Code and Open IN VS Code. 
+
+Run on Live-Server.
 
 Output Image:
 
