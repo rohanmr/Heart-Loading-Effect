@@ -2,6 +2,8 @@
 
 Download Code and Open in VS Code. 
 
+Install VS Code Extension Live Server.
+
 Run on Live-Server.
 
 ## Output Image:
